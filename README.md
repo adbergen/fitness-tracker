@@ -26,7 +26,7 @@ This is a workout tracker application.</p>
   </h4>
 </div>
 
-![Screenshot of application demo](demo.png)
+![Screenshot of application demo](public/img//demo.png)
 
 <hr>
 
