@@ -64,7 +64,7 @@ Using npm:
 <li>Javascript, jQuery</li>
 <li>MongoDB</li>
 <li>node.js, Express, Seqeulize, MySQL, dotenv, Passport, Bcrypt</li>
-<li>GitHub</li>
+<li>GitHub, Heroku</li>
 </ul>
 
 <hr>
