@@ -10,6 +10,15 @@ module.exports = (app) => {
       }
     });
   });
+  app.get("/api/workouts/range", (req, res) => {
+    db.Workout.find({}, (err, workouts) => {
+      if (err) {
+        console.log(err);
+      } else {
+        res.json(workouts);
+      }
+    });
+  });
   app.put("/api/workouts/:workout", ({ params, body }, res) => {
     db.Workout.findOneAndUpdate(
       { _id: params.id },
