@@ -15,11 +15,11 @@ Fitness Tracker
 This is a fitness tracker application.</p>
 <div align="center"><a name="menu"></a>
   <h4>
-    <a href="#">
+    <a href="https://fitnesstrax.herokuapp.com/">
       Heroku
     </a>
     <span> | </span>
-    <a href="https://github.com/adbergen/workout-tracker">
+    <a href="https://github.com/adbergen/fitness-tracker">
       Github
     </a>
 
