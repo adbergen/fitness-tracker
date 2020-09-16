@@ -1,5 +1,5 @@
 <h1 align="center">
-Workout Tracker
+Fitness Tracker
 </h1>
 <h4 align="center" style="margin-bottom:10px">Be sure to star my configuration repo so you can keep up to date on any daily progress!</h4>
 <div align="center">
@@ -12,7 +12,7 @@ Workout Tracker
 <br>
 </div>
 <p align="center"><font size="3">
-This is a workout tracker application.</p>
+This is a fitness tracker application.</p>
 <div align="center"><a name="menu"></a>
   <h4>
     <a href="#">
