@@ -5,9 +5,9 @@ Fitness Tracker
 <div align="center">
   <h4>
     </a>
-    <a href="https://github.com/adbergen/workout-tracker/stargazers"><img src="https://img.shields.io/github/stars/adbergen/workout-tracker.svg?style=plasticr"/></a>
-    <a href="https://github.com/adbergen/workout-tracker/commits/master"><img src="https://img.shields.io/github/last-commit/adbergen/workout-tracker.svg?style=plasticr"/></a>
-        <a href="https://github.com/adbergen/workout-tracker/commits/master"><img src="https://img.shields.io/github/commit-activity/y/adbergen/workout-tracker.svg?style=plasticr"/></a>
+    <a href="https://github.com/adbergen/fitness-tracker/stargazers"><img src="https://img.shields.io/github/stars/adbergen/fitness-tracker.svg?style=plasticr"/></a>
+    <a href="https://github.com/adbergen/fitness-tracker/commits/master"><img src="https://img.shields.io/github/last-commit/adbergen/fitness-tracker.svg?style=plasticr"/></a>
+        <a href="https://github.com/adbergen/fitness-tracker/commits/master"><img src="https://img.shields.io/github/commit-activity/y/adbergen/fitness-tracker.svg?style=plasticr"/></a>
 </h4>
 <br>
 </div>
