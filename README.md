@@ -47,7 +47,7 @@ Using npm:
 <br>
 <br>
 
-    npm install
+    npm install && npm start
 
 <hr>
 
